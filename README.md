@@ -1,6 +1,6 @@
 <div>
  <h1 >  Hi there, I'm Udesh Indumina!👋<h1/>
-   <h2>Undergraduate Software engineering University of Kelaniya</h2>
+ Undergraduate Software engineering University of Kelaniya
 
 <img align="left" with="47%" src="https://github-readme-stats.vercel.app/api?username=WAUdeshinduminaweerakoon&show_icons=true&theme=radical" />
 
