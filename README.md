@@ -1,4 +1,6 @@
-# Hi there, I'm Udesh Indumina!👋
+<div>
+ <h1 >  Hi there, I'm Udesh Indumina!👋<h1/>
+   <h2>Undergraduate Software engineering University of Kelaniya</h2>
 
 <img align="left" with="47%" src="https://github-readme-stats.vercel.app/api?username=WAUdeshinduminaweerakoon&show_icons=true&theme=radical" />
 
@@ -10,3 +12,4 @@
 
 <img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 
+<div/>
